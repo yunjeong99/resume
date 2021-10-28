@@ -71,3 +71,4 @@
   * 역할 : Android
   * 기간 : 2021.02 ~ 2021.07
   * 사용기술 : JAVA
+  * https://github.com/yunjeong99/resume/issues/7
