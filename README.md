@@ -1,13 +1,13 @@
-# 한윤정 
+# :wave: 한윤정 
 사용자의 관점과 개발자의 관점의 시각을 가지고 발전하고자 노력하는 개발자입니다.
 
-Github: https://github.com/yunjeong99
+:computer: Github: https://github.com/yunjeong99
 
-Email: yunjeonge99@gmail.com
+:email: Email: yunjeonge99@gmail.com
 
 
 
-# Career
+# :trophy: Career
 * 디스이즈
   * 기간 : 2019.09 ~ 2020.12
   * 역할 : Android 팀원
