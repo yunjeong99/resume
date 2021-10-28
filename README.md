@@ -53,10 +53,9 @@
   * 기간 : 2019.09 ~ 2020.12
   * 사용기술 : JAVA
   <img width="134" alt="디스이즈2" src="https://user-images.githubusercontent.com/77837098/139205447-35468650-0f7d-4f22-88b3-364299329629.PNG">
-  <img width="135" alt="디스이즈3" src="https://user-images.githubusercontent.com/77837098/139205448-58c07505-a4e3-4036-abf2-947bfe254ed2.PNG">
   <img width="135" alt="디스이즈4" src="https://user-images.githubusercontent.com/77837098/139205443-5c7d42cf-1f7b-45a5-bb60-03d8e90df195.PNG">
-  <img width="135" alt="디스이즈1" src="https://user-images.githubusercontent.com/77837098/139205444-f27cdd5b-07e5-4ca0-8d66-f8c8ee1d272c.PNG">
   <img width="135" alt="디스이즈5" src="https://user-images.githubusercontent.com/77837098/139205449-d50a7b9f-a58b-4139-adfd-eb797a1c24ea.PNG">
+  <img width="135" alt="디스이즈1" src="https://user-images.githubusercontent.com/77837098/139205444-f27cdd5b-07e5-4ca0-8d66-f8c8ee1d272c.PNG">
   <img width="135" alt="디스이즈6" src="https://user-images.githubusercontent.com/77837098/139205435-09d2dbc5-b963-47eb-b149-49c7c7e3fad6.PNG">
   
 
