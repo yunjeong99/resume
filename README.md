@@ -13,7 +13,7 @@
   * 역할 : Android 팀원
   * 홈페이지 : https://dsisteam.com
   * 페이스북 : https://www.facebook.com/dsisdevelopers
-  * 내용 : 동아대학교 학우들을 위해 캠퍼스 내의 정보와 서비스를 앱으로 개발하여 제공하는 서비스
+  * 내용 : 동아대학교 학우들을 위해 캠퍼스 내의 정보와 서비스를 앱으로 개발하여 제공하는 스마트캠퍼스 애플리케이션
 
 
 
@@ -45,3 +45,8 @@
 * KIC Tech Frontier Program
   * 기간 : 2021.07.03 ~ 2021.08.06
   * 수료증 : https://github.com/yunjeong99/resume/issues/4
+
+
+# :file_folder: 프로젝트
+* 디스이즈
+  * 내용 : 동아대학교 학우들을 위해 캠퍼스 내의 정보와 서비스를 앱으로 개발하여 제공하는 스마트캠퍼스 애플리케이션
