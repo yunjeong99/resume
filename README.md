@@ -38,8 +38,7 @@
 
 * 2020 동남권 LINC+ 사업단 창업노마드 FAIR
   * 기간 : 2020.11.26 ~ 2020.11.28
-  * 수료증 : https://github.com/yunjeong99/resume/issues/5
-  * 수상장 : https://github.com/yunjeong99/resume/issues/3
+  * 수료증 & 수상장 : https://github.com/yunjeong99/resume/issues/3
 
 
 * KIC Tech Frontier Program
