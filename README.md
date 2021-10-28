@@ -24,4 +24,4 @@ Email: yunjeonge99@gmail.com
 
 * 2021 예비 실험실창업탐색팀
   * 기간 : 2021.02.14 ~ 2021.03.03
-
+  * 수료증 : https://github.com/yunjeong99/resume/issues/1
