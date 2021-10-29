@@ -52,6 +52,7 @@
   * 역할 : DSIS Android 팀원
   * 기간 : 2019.09 ~ 2020.12
   * 사용기술 : JAVA
+  * 담당업무 : 학생정보 시스템에서 로그인 후, 서버 팀이 가공한 시간표와 관련된 JSON 데이터를 파싱. 연도, 학기별로 구분하여 스피너 형태로 제공해 사용자가 원하는 정보를 볼 수 있도록 UI 제작. 
   <img width="134" alt="디스이즈2" src="https://user-images.githubusercontent.com/77837098/139205447-35468650-0f7d-4f22-88b3-364299329629.PNG">
   <img width="135" alt="디스이즈4" src="https://user-images.githubusercontent.com/77837098/139205443-5c7d42cf-1f7b-45a5-bb60-03d8e90df195.PNG">
   <img width="135" alt="디스이즈5" src="https://user-images.githubusercontent.com/77837098/139205449-d50a7b9f-a58b-4139-adfd-eb797a1c24ea.PNG">
