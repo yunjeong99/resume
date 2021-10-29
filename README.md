@@ -72,3 +72,6 @@
   * 기간 : 2021.02 ~ 2021.06
   * 사용기술 : JAVA
   * https://github.com/yunjeong99/resume/issues/7
+  <img width="191" alt="도전학기제1" src="https://user-images.githubusercontent.com/77837098/139392787-f7597330-a267-473d-ab89-204594024743.PNG">
+  <img width="191" alt="도전학기제2" src="https://user-images.githubusercontent.com/77837098/139392795-a756b1f2-9245-4558-af42-73932f276031.PNG">
+  <img width="190" alt="도전학기제3" src="https://user-images.githubusercontent.com/77837098/139392799-b7b41a68-9b91-4c26-8c0b-e2dd5a5ad182.PNG">
