@@ -52,12 +52,13 @@
   * 역할 : DSIS Android 팀원
   * 기간 : 2019.09 ~ 2020.12
   * 사용기술 : JAVA
-  * 담당업무 : 학생정보 시스템에서 로그인 후, 서버 팀이 가공한 시간표와 관련된 JSON 데이터를 파싱. 연도, 학기별로 구분하여 스피너 형태로 제공해 사용자가 원하는 정보를 볼 수 있도록 UI 제작. 
+  * 담당업무 : 학생정보 시스템에서 로그인 후, 서버 팀이 가공한 시간표와 관련된 JSON 데이터를 파싱. 연도, 학기별로 구분하여 스피너 형태로 제공해 사용자가 원하는 정보를 볼 수 있도록 UI 제작 및 유지보수.
   <img width="134" alt="디스이즈2" src="https://user-images.githubusercontent.com/77837098/139205447-35468650-0f7d-4f22-88b3-364299329629.PNG">
   <img width="135" alt="디스이즈4" src="https://user-images.githubusercontent.com/77837098/139205443-5c7d42cf-1f7b-45a5-bb60-03d8e90df195.PNG">
   <img width="135" alt="디스이즈5" src="https://user-images.githubusercontent.com/77837098/139205449-d50a7b9f-a58b-4139-adfd-eb797a1c24ea.PNG">
   <img width="135" alt="디스이즈1" src="https://user-images.githubusercontent.com/77837098/139205444-f27cdd5b-07e5-4ca0-8d66-f8c8ee1d272c.PNG">
   <img width="135" alt="디스이즈6" src="https://user-images.githubusercontent.com/77837098/139205435-09d2dbc5-b963-47eb-b149-49c7c7e3fad6.PNG">
+  <img width="133" alt="디스이즈7" src="https://user-images.githubusercontent.com/77837098/139394518-8d992156-a2ca-4308-81fd-0fd15aa9c7a7.PNG">
   
 
 * RUP (Reduce of Plasitc)
@@ -65,6 +66,7 @@
   * 역할 : Android & Arduino
   * 기간 : 2020.08 ~ ing
   * 사용기술 : JAVA, Firebase
+  * 담당업무 : Firebase와 연동해 realtime database에서 사용자의 정보와 데이터값들을 불러와 main 화면과 userpage 화면 구현. 회원정보 수정, 공지사항, 최초 사용 가이드 라인, 푸시 알림 기능 등 애플리케이션의 전반적인 레이아웃 디자인과 기능 구현을 맡고 있음.
 
 
 * 도전학기제 
@@ -72,6 +74,7 @@
   * 역할 : Android
   * 기간 : 2021.02 ~ 2021.06
   * 사용기술 : JAVA
+  * 담당업무 : 회원가입, 게시판, 알람 화면 구현. 
   * https://github.com/yunjeong99/resume/issues/7
   <img width="191" alt="도전학기제1" src="https://user-images.githubusercontent.com/77837098/139392787-f7597330-a267-473d-ab89-204594024743.PNG">
   <img width="191" alt="도전학기제2" src="https://user-images.githubusercontent.com/77837098/139392795-a756b1f2-9245-4558-af42-73932f276031.PNG">
