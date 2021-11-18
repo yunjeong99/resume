@@ -9,6 +9,7 @@
 
 # :trophy: Career
 * 디스이즈
+  * 앱 배포o (현재는 react native)
   * 기간 : 2019.09 ~ 2020.12
   * 역할 : Android 팀원
   * 홈페이지 : https://dsisteam.com
