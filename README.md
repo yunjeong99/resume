@@ -77,7 +77,3 @@
   * 사용기술 : JAVA
   * 담당업무 : 회원가입, 게시판, 알람 화면 구현. 
   * https://github.com/yunjeong99/resume/issues/7
-  <img width="118" alt="도전학기제0" src="https://user-images.githubusercontent.com/77837098/139395871-213b9b58-e866-487a-9358-465c22958528.PNG">
-  <img width="191" alt="도전학기제1" src="https://user-images.githubusercontent.com/77837098/139392787-f7597330-a267-473d-ab89-204594024743.PNG">
-  <img width="191" alt="도전학기제2" src="https://user-images.githubusercontent.com/77837098/139392795-a756b1f2-9245-4558-af42-73932f276031.PNG">
-  <img width="190" alt="도전학기제3" src="https://user-images.githubusercontent.com/77837098/139392799-b7b41a68-9b91-4c26-8c0b-e2dd5a5ad182.PNG">
