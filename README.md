@@ -9,7 +9,7 @@
 
 # :trophy: Career
 * 디스이즈
-  * 앱 배포o (현재는 react native)
+  * 앱 배포
   * 기간 : 2019.09 ~ 2020.12
   * 역할 : Android 팀원
   * 홈페이지 : https://dsisteam.com
@@ -77,3 +77,4 @@
   * 사용기술 : JAVA
   * 담당업무 : 회원가입, 게시판, 알람 화면 구현. 
   * https://github.com/yunjeong99/resume/issues/7
+ 
